@@ -6,7 +6,7 @@
     <title>Age Calculator</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+         font-family: Arial, sans-serif;
             margin: 20px;
             padding: 20px;
             background-color: #3498db; /* Changed background color */
